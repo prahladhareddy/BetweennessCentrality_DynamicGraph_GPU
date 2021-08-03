@@ -1,4 +1,4 @@
-This is the implimentation of concepts in this papper https://dl.acm.org/doi/10.1145/3392717.3392743
+This is the implementation of concepts in this paper https://dl.acm.org/doi/10.1145/3392717.3392743
 
 make bc -> builds exicutable to run betweenness centrality separately
 make -> to build both cc and bc at once
