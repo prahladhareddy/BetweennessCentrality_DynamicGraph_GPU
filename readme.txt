@@ -13,3 +13,4 @@ integer representing number of batch updates(k) followed by k updates
 each batch update contains number of edges added(t) in followed by t edges
 
 
+there are some bugs in implimentation
